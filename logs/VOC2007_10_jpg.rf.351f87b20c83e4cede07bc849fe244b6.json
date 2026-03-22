@@ -1,0 +1,25 @@
+{
+  "filename": "VOC2007_10_jpg.rf.351f87b20c83e4cede07bc849fe244b6.jpg",
+  "detections": [
+    {
+      "label": "Non-Gloves",
+      "confidence": 0.6140884757041931,
+      "bbox": [
+        146,
+        424,
+        200,
+        481
+      ]
+    },
+    {
+      "label": "Non-Gloves",
+      "confidence": 0.353279173374176,
+      "bbox": [
+        368,
+        490,
+        407,
+        530
+      ]
+    }
+  ]
+}

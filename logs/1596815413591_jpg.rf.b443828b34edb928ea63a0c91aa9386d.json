@@ -1,0 +1,55 @@
+{
+  "filename": "1596815413591_jpg.rf.b443828b34edb928ea63a0c91aa9386d.jpg",
+  "detections": [
+    {
+      "label": "Gloves",
+      "confidence": 0.9064341187477112,
+      "bbox": [
+        24,
+        0,
+        462,
+        471
+      ]
+    },
+    {
+      "label": "Gloves",
+      "confidence": 0.8851205706596375,
+      "bbox": [
+        193,
+        165,
+        640,
+        638
+      ]
+    },
+    {
+      "label": "Gloves",
+      "confidence": 0.5148024559020996,
+      "bbox": [
+        300,
+        0,
+        637,
+        196
+      ]
+    },
+    {
+      "label": "Gloves",
+      "confidence": 0.4101150333881378,
+      "bbox": [
+        52,
+        11,
+        599,
+        544
+      ]
+    },
+    {
+      "label": "Gloves",
+      "confidence": 0.3408832550048828,
+      "bbox": [
+        35,
+        0,
+        442,
+        337
+      ]
+    }
+  ]
+}
